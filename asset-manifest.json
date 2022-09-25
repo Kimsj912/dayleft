@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dayleft/static/css/main.073c9b0a.css",
+    "main.js": "/dayleft/static/js/main.e0915681.js",
+    "static/js/787.35156451.chunk.js": "/dayleft/static/js/787.35156451.chunk.js",
+    "index.html": "/dayleft/index.html",
+    "main.073c9b0a.css.map": "/dayleft/static/css/main.073c9b0a.css.map",
+    "main.e0915681.js.map": "/dayleft/static/js/main.e0915681.js.map",
+    "787.35156451.chunk.js.map": "/dayleft/static/js/787.35156451.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e0915681.js"
+  ]
+}
